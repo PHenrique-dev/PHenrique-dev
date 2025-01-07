@@ -50,7 +50,7 @@ Se você é um amante de filmes e programas de TV em busca de uma nova maneira d
 Se você estiver interessado em trabalhar juntos ou apenas quiser trocar ideias, sinta-se à vontade para entrar em contato comigo.
 
 - Email: pedrohenso@outlook.com(mailto:pedrohenso@outlook.com)
-- LinkedIn: (https://www.linkedin.com/in/pedro-henrique-da-silva-oliveira-5a4536280/)
+- LinkedIn: (https://www.linkedin.com/in/pedro-henrique-5a4536280/)
 - GitHub: (https://github.com/PHenrique-dev))
 
 Estou ansioso para colaborar em projetos interessantes e ajudar a criar experiências digitais incríveis juntos!
