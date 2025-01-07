@@ -12,9 +12,9 @@ Sou um desenvolvedor frontend apaixonado por criar experiências digitais envolv
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F)]() 
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)]()
-- React.js 
-- Flutter 
-- Dart 
+[![React.js](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=white)]() 
+[![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)]() 
 
 ## Projetos Destacados
 
