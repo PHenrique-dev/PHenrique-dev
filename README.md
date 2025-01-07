@@ -18,7 +18,7 @@ Sou um desenvolvedor frontend apaixonado por criar experiências digitais envolv
 
 ## Projetos Destacados
 
-### Projeto 1: Netflixo(https://netflixo-app-pedroigas-projects.vercel.app)
+### Projeto 1: [Netflixo](https://netflixo-app-pedroigas-projects.vercel.app)
 # Netflixo
 
 O Netflixo é um projeto que recria a experiência do usuário do popular serviço de streaming Netflix, permitindo aos usuários explorar uma vasta biblioteca de filmes e programas de TV. Utilizando React.js para a construção da interface de usuário dinâmica e a API TMDB para obter dados sobre filmes e programas de TV, o Netflixo oferece uma experiência imersiva e intuitiva.
@@ -43,7 +43,6 @@ O objetivo principal do Netflixo é fornecer aos usuários uma plataforma onde e
 
 Se você é um amante de filmes e programas de TV em busca de uma nova maneira de descobrir conteúdo emocionante, o Netflixo está aqui para ajudar a tornar sua experiência de streaming ainda mais gratificante e envolvente.
 
-![Projeto 1](link para uma imagem/screenshoot do projeto)
 
 
 ## Como Entrar em Contato
