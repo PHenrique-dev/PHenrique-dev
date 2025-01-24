@@ -47,7 +47,7 @@ Espanhol: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PHenrique-dev&repo=netflixo_app&bg_color=000&border_color=green&show_icons=true&icon_color=green&title_color=green&text_color=green)](https://github.com/PHenrique-dev/netflixo_app.git)
 
 ### Em andamento
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PHenrique-dev&repo=cadebebe&bg_color=000&border_color=green&show_icons=true&icon_color=green&title_color=green&text_color=green)](https://github.com/PHenrique-dev/cadebebe.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PHenrique-dev&repo=website&bg_color=000&border_color=green&show_icons=true&icon_color=green&title_color=green&text_color=green)](https://github.com/PHenrique-dev/website)
 
 ## Objetivo
 
