@@ -46,6 +46,7 @@ Espanhol: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
 ### Concluído
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PHenrique-dev&repo=netflixo_app&bg_color=000&border_color=green&show_icons=true&icon_color=green&title_color=green&text_color=green)](https://github.com/PHenrique-dev/netflixo_app.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PHenrique-dev&repo=Finans&bg_color=000&border_color=green&show_icons=true&icon_color=green&title_color=green&text_color=green)](https://github.com/PHenrique-dev/finans.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PHenrique-dev&repo=Spotify&bg_color=000&border_color=green&show_icons=true&icon_color=green&title_color=green&text_color=green)](https://github.com/PHenrique-dev/Spotify)
 
 
 ### Em andamento
