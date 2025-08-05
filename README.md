@@ -11,7 +11,7 @@ Estou sempre em busca de novos desafios e aberto a propostas de trabalho.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedro-henrique-5a4536280/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/phenrique_so/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:pedrohenso@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=orange)](https://pedrodev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=orange)]([https://pedrodev.vercel.app/](https://phenrique-dev.vercel.app)
 
 ## Linguagens e Ferramentas
 
